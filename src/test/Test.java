@@ -16,8 +16,8 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.err.println("dcbd");
-        System.out.println("");
+        System.err.println("dcbd"); 
+        System.out.println("dvrf");
     }
     
 }
